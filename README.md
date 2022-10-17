@@ -1,2 +1,2 @@
 # week05API.github.io
-week 5 API assignment
+week 5 data assignment
